@@ -1,6 +1,6 @@
 # Professional Email Decision Support
 
-This repository documents a project exploring how AI can help professionals decide **what to do next** when replying to difficult, high-stakes emails.
+This repository documents a project exploring how structured analysis and AI-assisted reasoning can help professionals decide **what to do next** when replying to difficult, high-stakes emails.
 
 The focus is not on writing better emails, but on **reducing risk** in situations involving clients, managers, HR, suppliers, or other stakeholders where wording, timing, and tone matter.
 
