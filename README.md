@@ -69,5 +69,30 @@ Require specifics before acting.
 
 ## What This Repository Is (and Isn’t)
 
-**This repository**
+**This repository is:**
+- a public explanation of the problem and approach
+- a collection of anonymized examples
+- a demonstration of decision-focused thinking
 
+**This repository is not:**
+- the implementation
+- the AI prompt or system instructions
+- a deployable tool or service
+
+The working system is maintained separately.
+
+---
+
+## Purpose
+
+This project is intended for professionals who regularly deal with:
+- clients
+- managers
+- HR or legal teams
+- suppliers or partners
+
+It is designed to support clearer decision-making under pressure, not to provide legal or HR advice.
+
+---
+
+*Designed for professional workplace communication.*
