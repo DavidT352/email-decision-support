@@ -104,6 +104,40 @@ A high-pressure escalation with an ultimatum for a fix or a refund.
 > I have received your email. To ensure this is handled correctly, please provide a list of the specific features failing to perform as expected and the troubleshooting steps you have attempted so far. Having these details in writing will allow for a concrete review of the technical issues and the refund request.
 
 
+### Example 3: Project Alignment Pressure with Imposed Deadline
+
+**Incoming email:**
+
+> I’m a bit concerned after reviewing the latest update. Some of the decisions reflected there don’t seem to align with what we discussed earlier, and it’s creating confusion on our side.  
+>  
+> At this point, leadership is asking whether we should continue in the current direction or reconsider the approach altogether. We need to be careful here, as timelines and accountability are now being reviewed.  
+>  
+> Please confirm today how you intend to proceed so we can decide next steps.  
+>  
+> — Anna
+
+---
+
+**Facts**
+- The sender is concerned about recent updates.
+- The sender states the updates do not align with previous discussions.
+- Leadership is questioning the current direction versus reconsidering the approach.
+- Timelines and accountability are under review.
+- The sender has requested confirmation by the end of the day.
+
+**What This Email Represents**  
+Pressure and potential escalation regarding project alignment and accountability.
+
+**Why This Is the Next Best Step**
+- It shifts the burden of proof back to the sender to identify specific discrepancies.
+- It avoids committing to a direction without concrete clarification.
+- It neutralizes the imposed deadline by requiring documentation before proceeding.
+
+**Suggested Reply**
+> I have received your email. To ensure I address leadership’s concerns accurately, please provide the specific points from the latest update that you believe do not align with our previous discussions. Having these details in writing will allow for a proper review before any decision is made.
+
+
+
 
 ---
 
